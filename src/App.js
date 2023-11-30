@@ -30,7 +30,6 @@ function App() {
   const userVideo = useRef(null);
   const connectionRef = useRef();
 
-
   useEffect(() => {
     navigator.mediaDevices
       .getUserMedia({ video: true, audio: true })
@@ -47,9 +46,6 @@ function App() {
       .catch((error) => {
         console.error("Error getting user media:", error);
       });
-  }, [myVideo]);
-
-  useEffect(() => {
 
     socket.on("me", (id) => {
       setMe(id);
