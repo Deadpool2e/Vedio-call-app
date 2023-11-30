@@ -1,0 +1,61 @@
+body {
+	background: #abe9cd;
+	/* fallback for old browsers */
+	background: -webkit-linear-gradient(to right,
+			#3eadcf,
+			#abe9cd);
+	/* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to right,
+
+			#3eadcf,
+			#abe9cd);
+	/* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+
+.container {
+	margin: 100px 0px;
+	display: grid;
+	grid-template-columns: 7fr 3fr;
+}
+
+.myId {
+	margin-right: 5rem;
+	border-radius: 25px;
+	box-shadow: 0 0 15px rgba(0,0,0,0.2);
+	padding: 2rem;
+	display: grid; 
+	justify-content: center;
+	align-content: center;  
+	background-color: #7b9f9a42;
+  }
+  
+
+.call-button {
+	text-align: center;
+	margin-top: 2rem;
+}
+
+.video-container {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	justify-content: center;
+	align-content: center;
+}
+
+.video {
+	text-align: center;
+}
+
+.overlay {
+	color: white;
+	font-size: 20px;
+	font-weight: 700;
+	margin-bottom: 10px;
+}
+
+.caller {
+	text-align: center;
+	color: #fff;
+}
