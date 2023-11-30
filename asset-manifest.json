@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.4883f591.css",
-    "main.js": "/static/js/main.74ff9792.js",
-    "static/js/787.9e9f4ffd.chunk.js": "/static/js/787.9e9f4ffd.chunk.js",
-    "index.html": "/index.html",
-    "main.4883f591.css.map": "/static/css/main.4883f591.css.map",
-    "main.74ff9792.js.map": "/static/js/main.74ff9792.js.map",
-    "787.9e9f4ffd.chunk.js.map": "/static/js/787.9e9f4ffd.chunk.js.map"
+    "main.css": "/Vedio-call-app/static/css/main.4883f591.css",
+    "main.js": "/Vedio-call-app/static/js/main.3dc35d00.js",
+    "static/js/787.9e9f4ffd.chunk.js": "/Vedio-call-app/static/js/787.9e9f4ffd.chunk.js",
+    "index.html": "/Vedio-call-app/index.html",
+    "main.4883f591.css.map": "/Vedio-call-app/static/css/main.4883f591.css.map",
+    "main.3dc35d00.js.map": "/Vedio-call-app/static/js/main.3dc35d00.js.map",
+    "787.9e9f4ffd.chunk.js.map": "/Vedio-call-app/static/js/787.9e9f4ffd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4883f591.css",
-    "static/js/main.74ff9792.js"
+    "static/js/main.3dc35d00.js"
   ]
 }
