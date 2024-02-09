@@ -7,7 +7,7 @@ import io from "socket.io-client";
 import "./App.css";
 const Peer = window.SimplePeer;
 
-const BASE_URL = process.env.REACT_APP_BASE_URL;
+const BASE_URL = process.env.REACT_APP_BASE_URL || "https://vedio-call-app-server-production.up.railway.app/";
 
 // console.log(BASE_URL);
 
